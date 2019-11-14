@@ -1,0 +1,83 @@
+--- 1.44 --- (Nov 08, 2015)
+1) Compatibility for Moodle 3.0
+2) NEW: Settings option for default logo height
+3) NEW: Settings option for "My courses" dropdown menu
+4) NEW: Layout file for the Moodle grader (for Moodle 2.9 and 3.0)
+5) Updated Font Awesome to Ver. 4.4
+6) Improved CSS for the Moodle RSS block
+7) Fixed block action icons margin
+8) Fixed action menu padding (for Moodle 2.9 and 3.0)
+9) Fixed "show question text" checkbox
+8) Fixed bug with the display of "dimmed" courses
+9) Fixed full-page-width setting in lib.php
+10) Fixed CSS for blocks in the dock
+11) Fixed CSS .spotlight .arrow classes for Safari
+12) Fixed CSS for header and login form  in IE8
+13) Fixed CSS .course-pano class for IE
+14) Fixed CSS .headline class
+
+
+
+--- 1.43 --- (July 23, 2015)
+1) Fixed issue with the responsive menu at the frontpage
+2) Fixed PHP Notice:  Undefined variable in lib.php
+3) Fixed PHP Notice:  Trying to get property of non-object in lib.php
+4) Improved responsive behaviour for the standard three column layout
+5) NEW: Enabled dock area for blocks
+6) Added layout definition for Totara installations
+7) Fixed settings option for tiled backgrounds
+8) NEW: Theme's profileblock now uses the Moodle core user dropdown menu (for Moodle 2.9)
+
+
+
+--- 1.42 --- (May 30, 2015)
+1) Fixed JavaScript issue for Moodle 2.9
+2) Improved responsive layout for Moodle 2.9
+3) Improved renderer for the custom menu items
+
+
+
+--- 1.41 --- (May 11, 2015)
+1) Compatibility for Moodle 2.9
+2) Improved: bootstrap 3 level collapsing menu
+
+
+
+--- 1.4 --- (Mar 30, 2015)
+1) Updated included Font Awesome to Ver. 4.3
+2) Fixed IE8 compatibility issue
+3) Added Multi-language content filter support for the slideshow
+4) Added css classes for easier embedding of responsive videos
+5) Added css classes for course titles and headlines
+
+
+
+--- 1.3 --- (Jan 30, 2015)
+1) Fixed IE8/IE9 compatibility issue
+2) Added missing "search courses" form in mobile view
+3) Improved: "left" and "right" block regions on frontpage
+
+
+
+--- 1.2 --- (Jan 12, 2015)
+1) Fixed display issue in the course gradebook for Moodle 2.8
+2) Added support for Bootstrap's css classes for tables
+3) Added missing backtotop file entry in language files
+4) Improved: hiding breadcrumb from guest users and users who are not logged in
+5) Improved: styling for grading and and grader report
+
+
+
+--- 1.1 --- (Jan 02, 2015)
+1) Added full rtl support (very special thanks to Mowaffak Ali for working with me on this!).
+2) Fixed rendering issue in Google Chrome with the carousel slider placed at top position
+3) Fixed "Missing argument" issue in settings.php
+4) Updated included Font Awesome to Ver. 4.2
+5) Improved solution to load Font Awesome
+6) Added spanish language file (thanks to Pablo Ferrer Area!).
+7) Added and improved css for the "spotlight" classes.
+
+
+
+--- 1.0 --- (Nov 28, 2014)
+-> Initial Release 
